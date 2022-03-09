@@ -1,0 +1,20 @@
+{
+  "deploymentRegion": {
+    "value": "westeu"
+  },
+  "aadTenantId": {
+    "value": "d8f9e78f-ec87-4abc-b851-8920bd5bc5ea"
+  },
+  "subscriptionId": {
+    "value": "5bb8feda-b17f-43cc-a76d-382510f84a3b"
+	},
+  "solutionName": {
+    "value": "iot-simulator"
+  },
+  "adminUsername": {
+    "value": "euvicUser"
+  },
+  "adminPassword": {
+    "value": "Euvicpassword#1"
+  }
+}
